@@ -2,6 +2,8 @@
 
 A terminal-based interactive tool to manage and track your progress on Leetcode questions. (Made using DeepSeek V3)
 
+![Leetcode Todo Terminal Preview](image.png)
+
 ---
 
 ### Key Features:
