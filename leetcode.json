@@ -1,0 +1,422 @@
+[
+  {
+    "no": 1,
+    "question": "Two Sum",
+    "done": true
+  },
+  {
+    "no": 2,
+    "question": "Best Time to Buy and Sell Stock",
+    "done": true
+  },
+  {
+    "no": 3,
+    "question": "Contains Duplicate",
+    "done": false
+  },
+  {
+    "no": 4,
+    "question": "Product of Array Except Self",
+    "done": true
+  },
+  {
+    "no": 5,
+    "question": "Maximum Subarray",
+    "done": false
+  },
+  {
+    "no": 6,
+    "question": "Maximum Product Subarray",
+    "done": false
+  },
+  {
+    "no": 7,
+    "question": "Find Minimum in Rotated Sorted Array",
+    "done": false
+  },
+  {
+    "no": 8,
+    "question": "Search in Rotated Sorted Array",
+    "done": false
+  },
+  {
+    "no": 9,
+    "question": "3 Sum",
+    "done": false
+  },
+  {
+    "no": 10,
+    "question": "Container With Most Water",
+    "done": false
+  },
+  {
+    "no": 11,
+    "question": "Clone Graph",
+    "done": false
+  },
+  {
+    "no": 12,
+    "question": "Course Schedule",
+    "done": false
+  },
+  {
+    "no": 13,
+    "question": "Pacific Atlantic Water Flow",
+    "done": false
+  },
+  {
+    "no": 14,
+    "question": "Number of Islands",
+    "done": false
+  },
+  {
+    "no": 15,
+    "question": "Longest Consecutive Sequence",
+    "done": false
+  },
+  {
+    "no": 16,
+    "question": "Reverse a Linked List",
+    "done": false
+  },
+  {
+    "no": 17,
+    "question": "Detect Cycle in a Linked List",
+    "done": false
+  },
+  {
+    "no": 18,
+    "question": "Merge Two Sorted Lists",
+    "done": false
+  },
+  {
+    "no": 19,
+    "question": "Remove Nth Node From End Of List",
+    "done": false
+  },
+  {
+    "no": 20,
+    "question": "Reorder List",
+    "done": false
+  },
+  {
+    "no": 21,
+    "question": "Longest Substring Without Repeating Characters",
+    "done": false
+  },
+  {
+    "no": 22,
+    "question": "Longest Repeating Character Replacement",
+    "done": false
+  },
+  {
+    "no": 23,
+    "question": "Valid Anagram",
+    "done": false
+  },
+  {
+    "no": 24,
+    "question": "Group Anagrams",
+    "done": false
+  },
+  {
+    "no": 25,
+    "question": "Valid Parentheses",
+    "done": false
+  },
+  {
+    "no": 26,
+    "question": "Generate Parentheses",
+    "done": false
+  },
+  {
+    "no": 27,
+    "question": "Valid Palindrome",
+    "done": false
+  },
+  {
+    "no": 28,
+    "question": "Longest Palindromic Substring",
+    "done": false
+  },
+  {
+    "no": 29,
+    "question": "Palindromic Substrings",
+    "done": false
+  },
+  {
+    "no": 30,
+    "question": "Maximum Depth of Binary Tree",
+    "done": false
+  },
+  {
+    "no": 31,
+    "question": "Same Tree",
+    "done": false
+  },
+  {
+    "no": 32,
+    "question": "Invert/Flip Binary Tree",
+    "done": false
+  },
+  {
+    "no": 33,
+    "question": "Binary Tree Level Order Traversal",
+    "done": false
+  },
+  {
+    "no": 34,
+    "question": "Subtree of Another Tree",
+    "done": false
+  },
+  {
+    "no": 35,
+    "question": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "done": false
+  },
+  {
+    "no": 36,
+    "question": "Validate Binary Search Tree",
+    "done": false
+  },
+  {
+    "no": 37,
+    "question": "Kth Smallest Element in a BST",
+    "done": false
+  },
+  {
+    "no": 38,
+    "question": "Lowest Common Ancestor of BST",
+    "done": false
+  },
+  {
+    "no": 39,
+    "question": "Implement Trie (Prefix Tree)",
+    "done": false
+  },
+  {
+    "no": 40,
+    "question": "Add and Search Word",
+    "done": false
+  },
+  {
+    "no": 41,
+    "question": "Word Search I",
+    "done": false
+  },
+  {
+    "no": 42,
+    "question": "Top K Frequent Elements",
+    "done": false
+  },
+  {
+    "no": 43,
+    "question": "Koko Eating Bananas",
+    "done": false
+  },
+  {
+    "no": 44,
+    "question": "Set Matrix Zeroes",
+    "done": false
+  },
+  {
+    "no": 45,
+    "question": "Rotate Image",
+    "done": false
+  },
+  {
+    "no": 46,
+    "question": "Spiral Matrix",
+    "done": false
+  },
+  {
+    "no": 47,
+    "question": "Combination Sum",
+    "done": false
+  },
+  {
+    "no": 48,
+    "question": "Permutations",
+    "done": false
+  },
+  {
+    "no": 49,
+    "question": "Subsets",
+    "done": false
+  },
+  {
+    "no": 50,
+    "question": "Word Search",
+    "done": false
+  },
+  {
+    "no": 51,
+    "question": "Decode Ways",
+    "done": false
+  },
+  {
+    "no": 52,
+    "question": "Unique Paths",
+    "done": false
+  },
+  {
+    "no": 53,
+    "question": "Jump Game",
+    "done": false
+  },
+  {
+    "no": 54,
+    "question": "House Robber",
+    "done": false
+  },
+  {
+    "no": 55,
+    "question": "Insert Interval",
+    "done": false
+  },
+  {
+    "no": 56,
+    "question": "Meeting Rooms II",
+    "done": false
+  },
+  {
+    "no": 57,
+    "question": "Task Scheduler",
+    "done": false
+  },
+  {
+    "no": 58,
+    "question": "LRU Cache",
+    "done": false
+  },
+  {
+    "no": 59,
+    "question": "Minimum Window Substring",
+    "done": false
+  },
+  {
+    "no": 60,
+    "question": "Find All Anagrams in a String",
+    "done": false
+  },
+  {
+    "no": 61,
+    "question": "Partition Labels",
+    "done": false
+  },
+  {
+    "no": 62,
+    "question": "Interval List Intersections",
+    "done": false
+  },
+  {
+    "no": 63,
+    "question": "Daily Temperatures",
+    "done": false
+  },
+  {
+    "no": 64,
+    "question": "Next Greater Element II",
+    "done": false
+  },
+  {
+    "no": 65,
+    "question": "Binary Tree Zigzag Level Order Traversal",
+    "done": false
+  },
+  {
+    "no": 66,
+    "question": "Populating Next Right Pointers in Each Node",
+    "done": false
+  },
+  {
+    "no": 67,
+    "question": "Path Sum II",
+    "done": false
+  },
+  {
+    "no": 68,
+    "question": "Sum Root to Leaf Numbers",
+    "done": false
+  },
+  {
+    "no": 69,
+    "question": "Flatten Binary Tree to Linked List",
+    "done": false
+  },
+  {
+    "no": 70,
+    "question": "Count Good Nodes in Binary Tree",
+    "done": false
+  },
+  {
+    "no": 71,
+    "question": "Delete Node in a BST",
+    "done": false
+  },
+  {
+    "no": 72,
+    "question": "Convert Sorted List to Binary Search Tree",
+    "done": false
+  },
+  {
+    "no": 73,
+    "question": "Course Schedule II",
+    "done": false
+  },
+  {
+    "no": 74,
+    "question": "Cheapest Flights Within K Stops",
+    "done": false
+  },
+  {
+    "no": 75,
+    "question": "Find All Duplicates in an Array",
+    "done": false
+  },
+  {
+    "no": 76,
+    "question": "Search a 2D Matrix",
+    "done": false
+  },
+  {
+    "no": 77,
+    "question": "Find Peak Element",
+    "done": false
+  },
+  {
+    "no": 78,
+    "question": "Find First and Last Position of Element in Sorted Array",
+    "done": false
+  },
+  {
+    "no": 79,
+    "question": "Time Based Key-Value Store",
+    "done": false
+  },
+  {
+    "no": 80,
+    "question": "Capacity To Ship Packages Within D Days",
+    "done": false
+  },
+  {
+    "no": 81,
+    "question": "Split Array Largest Sum",
+    "done": false
+  },
+  {
+    "no": 82,
+    "question": "H-Index II",
+    "done": false
+  },
+  {
+    "no": 83,
+    "question": "Single Element in a Sorted Array",
+    "done": false
+  },
+  {
+    "no": 84,
+    "question": "Kth Smallest Element in a Sorted Matrix",
+    "done": false
+  }
+]
