@@ -17,8 +17,8 @@ A terminal-based interactive tool to manage and track your progress on Leetcode 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/lijuu/LeetcodeTodoTerminal.git
-   cd LeetcodeTodoTerminal
+   git clone https://github.com/lijuu/BubbleTeaLeetcodeApp.git
+   cd BubbleTeaLeetcodeApp
    ```
 
 2. Run the `run.sh` script to install:
